@@ -2,3 +2,4 @@
 * [快手汤](fast_soup)
 * [排骨](ribs)
 * [鸡翅](chicken_wing)
+* [家庭版小火锅](hot_pot)
